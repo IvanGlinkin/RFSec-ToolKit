@@ -15,6 +15,8 @@
 
 [And so on](https://www.youtube.com/results?search_query=hackrf)
 
+[Hacking DECT phones using HackRF and gr-dect2 library](https://www.youtube.com/watch?v=D0FUAXNiYQ8)
+
 ### Blog
 [RFcat : Hacking fixed key remotes By AndrewNohawk](https://andrewmohawk.com/2012/09/06/hacking-fixed-key-remotes/)
 
@@ -34,4 +36,9 @@
 
 [Wireless Hacking With SDR And GnuRadio](https://cn0xroot.com/2016/09/22/wireless-hacking-with-sdr-and-gnuradio/)
 
+[HackRF as the best SDR friend for hackers](https://www.ivanglinkin.com/hackrf-as-the-best-sdr-friend-for-hackers/)
+
+### Books
+
+[HackRF as the best SDR friend for hackers](https://www.ivanglinkin.com/wp-content/uploads/2023/09/HackRF_as_the_best_SDR_friend_for_hackers-Ivan_Glinkin.pdf)
 
